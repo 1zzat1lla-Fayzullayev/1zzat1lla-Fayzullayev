@@ -20,7 +20,7 @@
  </div>
  
 <div align="center"> 
-  <a href="ficodeer@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/#inbox">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://t.me/izzatilla_web" target="_blank">
