@@ -14,7 +14,7 @@
  
  🌱 I'm currently learning Web development
 
-💬 Ask me about **React, Firebase... or anything [here](ficodeer@gmail.com)**
+💬 Ask me about **React, Firebase... or anything [here](https://t.me/izzatilla_web)**
 
 
  </div>
